@@ -7,3 +7,5 @@ In 2018 I joined a group of transdisciplinary scientists at [Delft University of
 which led into collaboration with a bigger network of artists and scientists at [SEADS](https://seads.network/).
 
 Checkout the Evolutionary Asteroid Starship model at [EAS](https://github.com/farst/EAS) repository. It is a DES model fully scripted in [R](https://www.r-project.org) using [Simmer](https://r-simmer.org) in collaboration with Delft University of Technology and SEADS.  
+
+Disclaimer: Everything shared on public domain and all this repositories are personal and they don't represent policies or ideas of organizaitons that I'm affiliated to.
