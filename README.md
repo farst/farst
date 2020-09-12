@@ -5,3 +5,5 @@ where I help with data and analytics on the edge of IoT in glass-house technolog
 
 In 2018 I joined a group of transdisciplinary scientists at [Delft University of Technology](https://www.tudelft.nl/en/),
 which led into collaboration with a bigger network of artists and scientists at [SEADS](https://seads.network/).
+
+Checkout the Evolutionary Asteroid Starship model at [EAS] (https://github.com/farst/EAS) repository.
