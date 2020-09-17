@@ -8,4 +8,4 @@ which led into collaboration with a bigger network of artists and scientists at 
 
 Checkout the Evolutionary Asteroid Starship model at [EAS](https://github.com/farst/EAS) repository. It is a DES model fully scripted in [R](https://www.r-project.org) using [Simmer](https://r-simmer.org) in collaboration with Delft University of Technology and SEADS.  
 
-Disclaimer: Everything shared on public domain and all repositories owned by me, are personal and they don't represent policies of the organizaitons that I'm affiliated to.
+Disclaimer: Everything shared on public domain and all repositories owned by me, are personal and they don't represent any IP or policies of the organizaitons that I'm affiliated to.
